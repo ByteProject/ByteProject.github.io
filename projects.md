@@ -19,9 +19,9 @@ Currently, I ship two apps considered as bestsellers on the Mac App Store.
 You might want to check them out. If you're already one of my customers, let me thank you so much for your support!
 
 ### Future
-Right now I'm busy in the final stages of development for what will be `Ascension III`. The roman numeral remarks a change for good reason. This is a complete rewrite with countless improvements under the hood and so many new features (some you wouldn't even expect). It also comes with a completely redesigned and retro inspired UI. Note that  Ascension III will be the first paid Ascension upgrade since four years.  
+Right now I'm busy in the final stages of development for what will be `Ascension III`. The roman numeral remarks a change for good reason. This is a complete rewrite with countless improvements under the hood and so many new features (some you wouldn't even expect). It also comes with a completely redesigned and retro inspired UI. Note that Ascension III will be the first paid Ascension upgrade since four years.
 
-Even more changes are coming to `Escapes`. Version 2 is in pre-Alpha stage right now. It won't have much in common with the current version. The brandnew Escapes will be a contemporary ANSi art editor / paint, with all aspects you know from modern pixel image editors. 
+Even more changes are coming to `Escapes`. Version 2 is in pre-Alpha stage right now. It won't have much in common with the current version. The brandnew Escapes will be a contemporary ANSi art editor / paint, with all aspects you know from modern pixel image editors.
 
 On top of that, there are two additional projects in the works. I consider them as super secret and there is not much to say about it yet. One app is for Mac and one app for iOS. I will keep you updated.
 
