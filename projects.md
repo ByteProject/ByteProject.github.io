@@ -28,12 +28,12 @@ On top of that, there are two additional projects in the works. I consider them 
 ### Open Source
 Here are some projects I found important enough to share with the world. 
 
-* [AnsiLove.framework](http://github.com/ByteProject/AnsiLove.framework) - Cocoa framework for rendering ANSi Art
-* [AnsiLove-C](http://github.com/ByteProject/AnsiLove-C) - ANSi / ASCII art to PNG converter in C
-* [AutoHyperlinks.framework](http://github.com/ByteProject/AutoHyperlinks.framework) - Cocoa framework for hyperlink detection
-* [SVRetroTextView](http://github.com/ByteProject/SVRetroTextView) - NSTextView subclass optimized for displaying retro typefaces
-* [Tau Ceti theme](http://github.com/ByteProject/Tau-Ceti-theme) - a gorgeous color scheme for AppCode
-* [Ascension](http://github.com/ByteProject/Ascension) - last public branch before I closed sources
+* [AnsiLove.framework](http://github.com/ByteProject/AnsiLove.framework)
+* [AnsiLove-C](http://github.com/ByteProject/AnsiLove-C)
+* [AutoHyperlinks.framework](http://github.com/ByteProject/AutoHyperlinks.framework)
+* [SVRetroTextView](http://github.com/ByteProject/SVRetroTextView)
+* [Tau Ceti theme](http://github.com/ByteProject/Tau-Ceti-theme)
+* [Ascension](http://github.com/ByteProject/Ascension)
 
 I also contributed code to some important projects like [INAppStoreWindow](https://github.com/indragiek/INAppStoreWindow) and [NSKit](https://github.com/nscoding/NSKit). Visit my [GitHub](https://github.com/ByteProject) to find out more.
 
