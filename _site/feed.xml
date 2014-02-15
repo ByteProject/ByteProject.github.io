@@ -3,26 +3,26 @@
 <title type="text">Stefan Vogt | Cocoa developer</title>
 <subtitle type="text">Cocoa developer</subtitle>
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="http://byteproject.net/feed.xml" />
-<link rel="alternate" type="text/html" href="http://byteproject.net" />
-<updated>2014-02-15T16:41:40+01:00</updated>
-<id>http://byteproject.net/</id>
+<link rel="self" type="application/atom+xml" href="http://blog.byteproject.net/feed.xml" />
+<link rel="alternate" type="text/html" href="http://blog.byteproject.net" />
+<updated>2014-02-15T18:16:22+01:00</updated>
+<id>http://blog.byteproject.net/</id>
 <author>
   <name>Stefan Vogt</name>
-  <uri>http://byteproject.net/</uri>
+  <uri>http://blog.byteproject.net/</uri>
   <email>stefan.vogt@byteproject.net</email>
 </author>
 
 
 <entry>
   <title type="html"><![CDATA[Hello Jekyll]]></title>
-  <link rel="alternate" type="text/html" href="http://byteproject.net/articles/hello-jekyll" />
-  <id>http://byteproject.net/articles/hello-jekyll</id>
+  <link rel="alternate" type="text/html" href="http://blog.byteproject.net/articles/hello-jekyll" />
+  <id>http://blog.byteproject.net/articles/hello-jekyll</id>
   <published>2014-02-15T00:00:00+01:00</published>
   <updated>2014-02-15T00:00:00+01:00</updated>
   <author>
     <name>Stefan Vogt</name>
-    <uri>http://byteproject.net</uri>
+    <uri>http://blog.byteproject.net</uri>
     <email>stefan.vogt@byteproject.net</email>
   </author>
   <content type="html">&lt;p&gt;Been thinking of switching to &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; for a long time. With Jekyll, you transform plain text (&lt;a href=&quot;https://daringfireball.net/projects/markdown/&quot;&gt;Markdown&lt;/a&gt; in my case) into static websites and blogs. You can either decide to publish such a site on your own server, but most of the hipsters around use &lt;a href=&quot;http://pages.github.com/&quot;&gt;GitHub Pages&lt;/a&gt; to host their personal sites. So do I now. It’s definitely something for hackers but the benefits are great once you made yourself comfortable with it. There are countless tutorials and experience reports for Jekyll/GH-Pages out there, no need for me to redo the same thing over and over again. However, if you’re a geek like me, you should consider giving it a go. &lt;/p&gt;
@@ -39,7 +39,7 @@
 
 &lt;p&gt;Not bad, eh? It’s not as awesome as Sushi and retro consoles, but well… nearly.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://byteproject.net/articles/hello-jekyll&quot;&gt;Hello Jekyll&lt;/a&gt; was originally published by Stefan Vogt at &lt;a href=&quot;http://byteproject.net&quot;&gt;Stefan Vogt | Cocoa developer&lt;/a&gt; on February 15, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://blog.byteproject.net/articles/hello-jekyll&quot;&gt;Hello Jekyll&lt;/a&gt; was originally published by Stefan Vogt at &lt;a href=&quot;http://blog.byteproject.net&quot;&gt;Stefan Vogt | Cocoa developer&lt;/a&gt; on February 15, 2014.&lt;/p&gt;</content>
 </entry>
 
 </feed>
