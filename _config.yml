@@ -1,0 +1,50 @@
+title:            Stefan Vogt | Cocoa developer
+tagline:          Cocoa developer
+description:      Handcrafting apps like it's 1988.
+#Comment out url when working locally to resolve base urls correctly
+url: http://byteproject.net
+
+# Owner/author information
+owner:
+  name:           Stefan Vogt
+  avatar:         avatar.png
+  bio:            "I develop Mac OS X and iOS apps."
+  email:          stefan.vogt@byteproject.net
+  twitter:        byteproject        
+  github:         ByteProject       
+  instagram:      byteproject     
+  vscogrid:	      byteproject     
+  
+# Links to include in top navigation
+# For external links add external: true
+links:
+  - title: About
+    url: /about
+  - title: Projects
+    url: /projects
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:    Europe/Berlin
+future:      true
+pygments:    true
+markdown:    kramdown
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: false
+
+  coderay:
+    coderay_line_numbers: 
+    coderay_line_numbers_start: 1
+    coderay_tab_width: 4
+    coderay_bold_every: 10
+    coderay_css: class
+
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink:   /:categories/:title
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp"]
