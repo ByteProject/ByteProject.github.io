@@ -28,13 +28,12 @@ On top of that, there are two additional projects in the works. I consider them 
 ### Open Source
 Here are some projects I found important enough to share with the world. 
 
-<div class="github-widget" data-repo="ByteProject/AnsiLove.framework"></div>
-<div class="github-widget" data-repo="ByteProject/AnsiLove-C"></div>
-<div class="github-widget" data-repo="ByteProject/AutoHyperlinks.framework"></div>
-<div class="github-widget" data-repo="ByteProject/SVRetroTextView"></div>
-<div class="github-widget" data-repo="ByteProject/Ascension"></div>
-<div class="github-widget" data-repo="ByteProject/Tau-Ceti-theme"></div>
-<script type="text/javascript" src="/assets/js/jquery.githubRepoWidget.js"></script>
+* [AnsiLove.framework](http://github.com/ByteProject/AnsiLove.framework) - Cocoa framework for rendering ANSi Art
+* [AnsiLove-C](http://github.com/ByteProject/AnsiLove-C) - ANSi / ASCII art to PNG converter in C
+* [AutoHyperlinks.framework](http://github.com/ByteProject/AutoHyperlinks.framework) - Cocoa framework for hyperlink detection
+* [SVRetroTextView](http://github.com/ByteProject/SVRetroTextView) - NSTextView subclass optimized for displaying retro typefaces
+* [Tau Ceti theme](http://github.com/ByteProject/Tau-Ceti-theme) - a gorgeous color scheme for AppCode
+* [Ascension](http://github.com/ByteProject/Ascension) - last public branch before I closed sources
 
 I also contributed code to some important projects like [INAppStoreWindow](https://github.com/indragiek/INAppStoreWindow) and [NSKit](https://github.com/nscoding/NSKit). Visit my [GitHub](https://github.com/ByteProject) to find out more.
 
