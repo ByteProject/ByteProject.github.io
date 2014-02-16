@@ -5,7 +5,7 @@ title: What's up?
 description: My name is Stefan Vogt, I'm 36 years old and I handcraft beautiful apps for Mac OS X and iOS.
 tags: [Stefan, Vogt, Mac, iOS, developer, Cocoa]
 image:
-  feature: about-banner.png
+  feature: about-banner.jpg
 ---
 
 I'm driven by passion and commitment, which basically is the essence for creating enjoyable, contemporary, top-selling apps. My first successful product arose from the desire to use it for myself. I'm an avid contributor to the open source scene. Share your code whenever you can.

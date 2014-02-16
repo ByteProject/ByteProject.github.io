@@ -5,7 +5,7 @@ title: Projects
 description: My apps, code I share and a glance in the crystal ball.
 tags: [Stefan, Vogt, Mac, iOS, developer, Cocoa, projects]
 image:
-  feature: projects-banner.png
+  feature: projects-banner.jpg
 ---
 
 Since the very beginning, my world is full of bits and bytes. I ended up with what you find here. Welcome to my world.
